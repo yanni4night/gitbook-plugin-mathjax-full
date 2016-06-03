@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-mathjax-full",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Mathjax plugin for gitbook",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yanni4night/gitbook-plugin-mathjax-full.git"
+  },
+  "engines": {
+        "gitbook": "*"
   },
   "keywords": [
     "gitbook-plugin",
