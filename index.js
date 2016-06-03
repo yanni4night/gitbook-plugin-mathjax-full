@@ -13,7 +13,8 @@ module.exports = {
     book: {
         assets: "./book",
         js: [
-            "mathjsx.js"
+            "config.js",
+            "mathjax.js"
         ],
         css: [
         ],
