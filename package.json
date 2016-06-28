@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-mathjax-full",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Mathjax plugin for gitbook",
   "main": "index.js",
   "scripts": {
